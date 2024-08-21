@@ -1,0 +1,28 @@
+{
+  "name": "node-practice",
+  "version": "1.0.0",
+  "description": "A Simple Project to learn Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitmahajan102/node-practice.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "webserver"
+  ],
+  "author": "Rohit Mahajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitmahajan102/node-practice/issues"
+  },
+  "homepage": "https://github.com/rohitmahajan102/node-practice#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
